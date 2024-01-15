@@ -14,9 +14,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/ykkhmrdn/tic-tac-toe.git
 2. Install NPM packages
-   npm install
+   pnpm install
 
 ## Usage
 
