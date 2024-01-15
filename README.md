@@ -46,4 +46,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Yoko - yykkhmrdn@gmail.com
+Yoko - ykkhmrdn@gmail.com
